@@ -1,10 +1,10 @@
-## Hello, I'm Alain Sliman ! 👋
+# Hello, I'm Alain Sliman ! 👋
 
-# About Me
+## About Me
 
 I'm a second-year student at IIM Digital School specializing in Coding & Digital Innovation. I'm passionate about leveraging technology to create impactful digital experiences and innovative solutions.
 
-# Interests
+## Interests
 
 **💻 Web Development**: Frontend, backend, and creating seamless user experiences.
 
@@ -14,7 +14,7 @@ I'm a second-year student at IIM Digital School specializing in Coding & Digital
 
 **🌱 Continuous Learning**: Always looking to expand my skills and knowledge in new technologies.
 
-# Skills
+## Skills
 
 **Languages**: HTML, CSS, JavaScript, PHP, Java
 
