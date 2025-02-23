@@ -1,25 +1,42 @@
-# Hello, I'm Alain Sliman ! 👋
+# 👋 Salut, moi c'est **Alain Sliman** !
 
-## About Me
+## 🎓 Étudiant en 2ème année à l'IIM Digital School
 
-I'm a second-year student at IIM Digital School specializing in Coding & Digital Innovation. I'm passionate about leveraging technology to create impactful digital experiences and innovative solutions.
+Passionné par le **développement web**, l'**Internet des Objets (IoT)** et l'**algorithmie**, je suis constamment à la recherche de nouveaux défis pour enrichir mes compétences et contribuer à des projets innovants.
 
-## Interests
+---
 
-**💻 Web Development**: Frontend, backend, and creating seamless user experiences.
+## 🛠️ Compétences Techniques
 
-**🖌️ Creative Coding**: Exploring the intersection of design and technology.
+- **Frontend** : HTML, CSS, Tailwind, JavaScript, TypeScript, React, NextJS
+- **Backend** : Node.js, PHP (Symfony), Python
+- **Bases de données** : MySQL, MongoDB, Prisma ORM
+- **Outils et plateformes** : Git, GitHub, VScode, Laragon
 
-**📱 Mobile Development**: Building responsive and engaging mobile applications.
+---
 
-**🌱 Continuous Learning**: Always looking to expand my skills and knowledge in new technologies.
+## 🌟 Projets Réalisés
 
-## Skills
+- **To-Do List en TypeScript** : Application permettant aux utilisateurs de s'inscrire, se connecter, créer, valider et supprimer des tâches, avec une gestion personnalisée via le localStorage.
 
-**Languages**: HTML, CSS, JavaScript, PHP, Java
+- **Combat de Pokémon en PHP Orienté Objet** : Simulation de combats entre deux Pokémon, mettant en œuvre des concepts avancés de POO tels que l'héritage et la gestion des points de vie.
 
-**Frameworks & Tools**: React, Symfony, Firebase, WordPress
+- **Projet IoT Harry Potter** : Intégration d'une LED interactive contrôlée par une Raspberry Pi Pico, changeant de couleur en fonction de la maison sélectionnée dans un visionneur de cartes.
 
-**Others**: Git, UX/UI design principles, API integration
+- **Mini Pokédex** : Application web connectée à la PokéAPI, permettant de sélectionner un Pokémon et d'afficher ses caractéristiques détaillées.
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or just say hi! 😊
+- **Site Animalier en SCSS** : Reproduction fidèle d'un design Figma pour un site animalier, mettant en avant des offres et des prix, avec une attention particulière à la responsivité et à l'esthétique.
+
+- **Clone de Twitter en PHP avec Sécurité Web** : Plateforme permettant de tweeter, modifier et supprimer des tweets, avec une gestion sécurisée des mots de passe (hashage) et des tokens, ainsi qu'un système d'administration.
+
+---
+
+## 📫 Me Contacter
+
+- **LinkedIn** : [AlainZen](https://www.linkedin.com/in/alain-sliman-b81b8230b/)
+- **Portfolio** : En cours de construction...
+- **Email** : [alzensliman@outlook.com](mailto:alzensliman@outlook.com)
+
+---
+
+> 💡 *"Le code est mon pinceau, le clavier ma palette, et le web ma toile."*
