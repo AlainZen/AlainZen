@@ -34,7 +34,7 @@ Passionné par le **développement web**, l'**Internet des Objets (IoT)** et l'*
 ## 📫 Me Contacter
 
 - **LinkedIn** : [AlainZen](https://www.linkedin.com/in/alain-sliman-b81b8230b/)
-- **Portfolio** : [Accéder au Portfolio...](https://portfolioalain.vercel.app/)
+- **Portfolio** : [Portfolio Sliman Alain...](https://portfolioalain.vercel.app/)
 - **Email** : [alzensliman@outlook.com](mailto:alzensliman@outlook.com)
 
 ---
